@@ -19,4 +19,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/pricing-component-with-toggle-react/assets/13519212/a8f10ce3-0a79-4bc7-9de1-4a3f2265485b)
